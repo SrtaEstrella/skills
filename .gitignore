@@ -1,2 +1,4 @@
 .*
+!_*.md
 !.gitignore
+_user_meta.json
